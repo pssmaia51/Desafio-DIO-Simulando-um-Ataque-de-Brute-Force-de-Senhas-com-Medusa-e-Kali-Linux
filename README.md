@@ -1,5 +1,3 @@
-# Desafio-DIO-Simulando-um-Ataque-de-Brute-Force-de-Senhas-com-Medusa-e-Kali-Linux
-
 # Simulação de Ataques de Força Bruta com Kali Linux e Medusa em Ambiente Controlado
 
 ## 📖 Sobre o Projeto
